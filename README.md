@@ -2,7 +2,7 @@
 
 ## Integrantes
 - Gustavo Matos – RM 551268
-- Hitor Novaes – RM 98342
+- Heitor Novaes – RM 98342
 
 ## Telas do projeto
 
